@@ -1,6 +1,8 @@
 Smart AdServer - Google Ads Mobile SDK Adapter for Android
 ==============================================
 
+This repository is __deprecated__ and no longer supported. Please consider using [smart-gma-mediation-adapter-android](https://github.com/smartadserver/smart-gma-mediation-adapter-android) instead.
+
 Introduction
 ------------
 The _Smart AdServer Android SDK_ can be used through _Google Ads Mobile SDK (DFP)_ using the adapter provided in this repository for both _SASBannerView_ and _SASInterstitialView_.
